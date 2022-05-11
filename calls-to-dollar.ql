@@ -1,5 +1,5 @@
 import javascript
-//test
+//testee
 from CallExpr dollarCall
 where dollarCall.getCalleeName() = "$"
 select dollarCall
